@@ -13,9 +13,9 @@ Kho lưu trữ chính thức của *Nhóm 3CE* thuộc học phần *Quản lý 
 
 | STT | Họ và tên | Mã sinh viên | Vai trò dự kiến | GitHub |
 | :-: | :--- | :-: | :--- | :--- |
-| 1 | *Nguyễn Phương Linh* | [NT] | Project Manager / Member | [@pingl] |
+| 1 | *Đinh Thị Kiều* | [NT] | Project Manager / Member | [@kieu] |
 | 2 | *Ngô Thị Thu Lợi* | [TV] | Business Analyst / Member | [@ThuLoi] |
-| 3 | *Đinh Thị Kiều* | [TV] | Developer / Member | [@Kieu] |
+| 3 | *Nguyễn Phương Linh* | [TV] | Developer / Member | [@pingl] |
 
 
 ---
